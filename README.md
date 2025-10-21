@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Alaa Eldin!
 
 🎓 I'm a **2nd-year Artificial Intelligence student**  
-💡 Passionate about programming, web development, and AI algorithms  
+💡 Passionate about programming, web development, databases, and AI algorithms  
 🚀 I enjoy building small projects to apply what I learn in real life  
 
 ---
@@ -10,7 +10,9 @@
 - I started my coding journey with **C++**, learning the fundamentals of programming and algorithms  
 - I use **Python** to implement various **AI algorithms** and build small projects  
 - I can design and develop **websites** using **HTML**, **CSS**, and **JavaScript**  
-- I’m currently focused on improving my skills in **Machine Learning** and **Deep Learning**  
+- I have experience in **designing and building databases** using **SQL**  
+- I can create and visualize **EER diagrams** and **Database Schemas** for planning data structures  
+- I’m currently focused on improving my skills in **Machine Learning** and **Deep Learning**
 
 ---
 
@@ -20,10 +22,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Data Modeling
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-EER%20%26%20Schema-blue?style=flat)
+- Design and manage databases using **SQL**
+- Create and visualize **EER diagrams** and **schemas** for data structure planning
 
 ### 🤖 Artificial Intelligence
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -39,8 +48,9 @@
 ---
 
 ## 🌱 Currently Learning
-- Fundamentals of **Machine Learning**  
-- **Neural Networks** and Deep Learning basics  
+- Fundamentals of **Machine Learning**
+- **Neural Networks** and Deep Learning basics
+- **Database normalization** and advanced **SQL queries**
 - Improving my **C++** and **Python** problem-solving skills  
 
 ---
